@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norwichplumbingco.com/sitemap.xml
